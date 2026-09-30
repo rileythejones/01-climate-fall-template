@@ -3,7 +3,7 @@
   "first_year": 1978,
   "last_year": 2024,
   "annual_observations": 47,
-  "selection": "All annual observations in 1978\u20132024; daily quality screening retained",
+  "selection": "All years in 1978\u20132024; missing daily readings omitted",
   "excluded_candidate_years": [],
   "valid_days": 17150,
   "missing_days": 17,
