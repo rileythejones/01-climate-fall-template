@@ -1,0 +1,13 @@
+{
+  "station": "CY000176090",
+  "first_year": 1978,
+  "last_year": 2023,
+  "annual_observations": 45,
+  "excluded_candidate_years": [
+    2021,
+    2024
+  ],
+  "slope_c_per_decade": 0.5431684718354536,
+  "r_squared": 0.7630998857500954,
+  "fitted_change_c": 2.4442581232595413
+}
